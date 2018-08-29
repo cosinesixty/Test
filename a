@@ -1,0 +1,61 @@
+[33mcommit ff067984afcf98e33a06cd71026639d7813aed81[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: oafolabi <omoniyiafolabi01@gmail.com>
+Date:   Thu Aug 30 04:02:37 2018 +0530
+
+    adding second trial
+
+[33mcommit 7b9a1fd7283ba8d66188f0b0e19ee028e1e9c352[m
+Merge: 9e96107 2380f16
+Author: oafolabi <omoniyiafolabi01@gmail.com>
+Date:   Thu Aug 30 03:44:54 2018 +0530
+
+    resolved git conflict
+
+[33mcommit 9e9610737c810f0c6c9b709885a684987936b473[m
+Merge: 783328f c57289f
+Author: oafolabi <omoniyiafolabi01@gmail.com>
+Date:   Wed Aug 29 22:33:49 2018 +0530
+
+    this is necessary Merge branch 'branch1'
+
+[33mcommit 2380f16b2e5bb992c8ff90a22b786f17851de8e1[m[33m ([m[1;32mbranch2[m[33m)[m
+Author: oafolabi <omoniyiafolabi01@gmail.com>
+Date:   Wed Aug 29 22:31:05 2018 +0530
+
+    adding another line from branch2
+
+[33mcommit c57289fe13e906a9d7ba4af88e2a8a3c21a28aea[m[33m ([m[1;32mbranch1[m[33m)[m
+Author: oafolabi <omoniyiafolabi01@gmail.com>
+Date:   Wed Aug 29 22:27:11 2018 +0530
+
+    added a line to supportline
+
+[33mcommit 783328f72c8d59ef594ef08540f04a9237087c96[m
+Author: oafolabi <omoniyiafolabi01@gmail.com>
+Date:   Wed Aug 29 22:18:55 2018 +0530
+
+    another change to site.css
+
+[33mcommit 34393cb313eadccbc3e0d50fa77d297ed08238ae[m
+Author: oafolabi <omoniyiafolabi01@gmail.com>
+Date:   Wed Aug 29 22:16:38 2018 +0530
+
+    made second change to site.css
+
+[33mcommit 821f1977697b99b01541c3da90cbfb081fd72dce[m
+Author: oafolabi <omoniyiafolabi01@gmail.com>
+Date:   Wed Aug 29 22:10:59 2018 +0530
+
+    site.css
+
+[33mcommit ca6bc84950d21a3ab7d02322ab2c80ecc5018e2b[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mfeature1[m[33m)[m
+Author: oafolabi <omoniyiafolabi01@gmail.com>
+Date:   Wed Aug 29 09:12:53 2018 +0530
+
+    adding supportline functionality
+
+[33mcommit 70a40a0d738f981141d7f0255e1341cdf07e0bba[m
+Author: oafolabi <omoniyiafolabi01@gmail.com>
+Date:   Wed Aug 29 07:11:13 2018 +0530
+
+    adding sample-project
